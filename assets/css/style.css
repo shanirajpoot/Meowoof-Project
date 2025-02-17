@@ -673,7 +673,7 @@ justify-content: center;
 }
 .text-grey{
 color: grey;
-font-size: 10px;
+font-size: 12px;
 line-height: 24px;
 }
 .inner-box{
@@ -731,6 +731,13 @@ border-bottom-left-radius:43.26px;
   .container-services{
     height: 100%!important;
   
+}
+}
+@media(max-width:500px){
+.text-grey{
+color: grey;
+font-size: 10px;
+line-height: 20px;
 }
 }
 /* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ sec12 end $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
