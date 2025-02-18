@@ -123,6 +123,9 @@ body{
   .image-container {
     transform: translate(-3px, 10px);
 }
+  .heromain-p {
+  font-size: 0.8rem;
+}
 }
 
 @media(max-width:768px) and (min-width:400px) {
