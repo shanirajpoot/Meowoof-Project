@@ -1017,21 +1017,17 @@ height: 100%;
     .align-items-md-center {
         align-items: start !important;
     }
-}
-  @media(max-width:991px){
-    .signup-paragraph{
+      .signup-paragraph{
       color: black;
       font-size: 10px;
      }
      .signup{
       border-right: none;
      }
-  }
-  @media(max-width:991px){
     .footer-copyright-p{
       padding-inline: 0px;
       font-size: 8px;
        }
-  }
+}
 
   /* ######################### FOOETR END ############################## */
